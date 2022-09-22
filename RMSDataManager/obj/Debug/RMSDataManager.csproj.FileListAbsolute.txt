@@ -114,3 +114,5 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\obj\Debug\RMSDataManager.csproj.CopyComplete
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\obj\Debug\RMSDataManager.dll
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\obj\Debug\RMSDataManager.pdb
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\Swashbuckle.Core.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\WebActivatorEx.dll
