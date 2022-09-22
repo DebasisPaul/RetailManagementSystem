@@ -24,7 +24,7 @@ namespace RMSDataManager.App_Start
                         new Parameter
                         {
                             type = "string",
-                            name = "grant-type",
+                            name = "grant_type",
                             required = true,
                             @in = "formData",
                             @default = "password"
