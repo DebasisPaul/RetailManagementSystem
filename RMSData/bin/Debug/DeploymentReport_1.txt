@@ -1,0 +1,25 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Inventory] (Table)
+       [dbo].[Product] (Table)
+       [dbo].[Sale] (Table)
+       [dbo].[SaleDetail] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Inventory] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Product] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Product] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[SaleDetail] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[SaleDetail] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[User] (Default Constraint)
+
+** Supporting actions

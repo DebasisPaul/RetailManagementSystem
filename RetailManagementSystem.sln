@@ -9,11 +9,6 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "RMSData", "RMSData\RMSData.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMSDesktopUI", "RMSDesktopUI\RMSDesktopUI.csproj", "{8FBC01D7-DDC5-4CA9-84A7-6AF861FA852E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Planning", "Planning", "{E3CE39ED-8147-4D00-BE9C-8DB7C95DC25D}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\debas\Downloads\PLANNING THE REGISTER.pdf = C:\Users\debas\Downloads\PLANNING THE REGISTER.pdf
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
