@@ -5,8 +5,6 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RMSDesktopUI.csproj.SuggestedBindingRedirects.cache
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\App.g.cs
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RetailManagementSystem_MarkupCompile.cache
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RetailManagementSystem_MarkupCompile.lref
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RetailManagementSystem.g.resources
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RMSDesktopUI.Properties.Resources.resources
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RMSDesktopUI.csproj.GenerateResource.cache
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RMSDesktopUI.csproj.CoreCompileInputs.cache
@@ -21,6 +19,15 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\Caliburn.Micro.Platform.Core.xml
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\ShellView.g.cs
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\App.baml
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\ShellView.baml
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RMSDesktopUI.csproj.CopyComplete
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\LoginView.g.cs
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RetailManagementSystem_MarkupCompile.lref
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\App.baml
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\LoginView.baml
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\ShellView.baml
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\RetailManagementSystem.g.resources
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\Newtonsoft.Json.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\System.Net.Http.Formatting.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\Newtonsoft.Json.pdb
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\Newtonsoft.Json.xml
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\System.Net.Http.Formatting.xml
