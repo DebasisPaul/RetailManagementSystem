@@ -2,9 +2,5 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\bin\Debug\RMSData.dll
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\bin\Debug\RMSData.pdb
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\RMSData.sqlproj.AssemblyReference.cache
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\Model.xml
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\refactor.xml
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\postdeploy.sql
-F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\predeploy.sql
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\RMSData.dll
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSData\obj\Debug\RMSData.pdb

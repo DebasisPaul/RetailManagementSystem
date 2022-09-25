@@ -116,3 +116,7 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\obj\Debug\RMSDataManager.pdb
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\Swashbuckle.Core.dll
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\WebActivatorEx.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\RMSDataManager.Library.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\Dapper.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\RMSDataManager.Library.pdb
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDataManager\bin\Dapper.xml
