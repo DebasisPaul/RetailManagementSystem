@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[User].[CareatedDate] is being dropped, data loss could occur.
+
+** User actions
+     Drop
+       unnamed constraint on [dbo].[User] (Default Constraint)
+     Alter
+       [dbo].[User] (Table)
+     Create
+       [dbo].[spUserLookup] (Procedure)
+
+** Supporting actions
+
+The column [dbo].[User].[CareatedDate] is being dropped, data loss could occur.
+
