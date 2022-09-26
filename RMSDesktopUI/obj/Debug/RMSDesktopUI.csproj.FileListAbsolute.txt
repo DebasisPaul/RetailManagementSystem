@@ -31,3 +31,6 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\Newtonsoft.Json.pdb
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\Newtonsoft.Json.xml
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\System.Net.Http.Formatting.xml
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\RMSDesktopUI.Library.dll
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\RMSDesktopUI.Library.pdb
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\RMSDesktopUI.Library.dll.config
