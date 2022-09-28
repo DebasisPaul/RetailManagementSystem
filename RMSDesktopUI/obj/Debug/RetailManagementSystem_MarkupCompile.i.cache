@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\App.xaml
-21826688691
+3473425652
 
-13996279073
+151039308081
 1252092855687
-Views\LoginView.xaml;Views\ShellView.xaml;
+Views\LoginView.xaml;Views\SalesView.xaml;Views\ShellView.xaml;
 
-False
+True
 
