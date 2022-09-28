@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace RMSDesktopUI.ViewModels
 {
-    internal class SalesViewModel : Screen
+    public class SalesViewModel : Screen
     {
 		private BindingList<string> _products;
 
@@ -22,15 +22,15 @@ namespace RMSDesktopUI.ViewModels
             }
 		}
 
-		private string _itemQuantity;
+		private int _itemQuantity;
 
-		public string ItemQuantity
+		public int ItemQuantity
 		{
 			get { return _itemQuantity; }
 			set 
 			{
 				_itemQuantity = value;
-                NotifyOfPropertyChange(() => Products);
+                NotifyOfPropertyChange(() => ItemQuantity);
 
             }
         }
@@ -74,9 +74,6 @@ namespace RMSDesktopUI.ViewModels
             }
         }
 
-
-
-
         public bool CanAddToCart
         {
             get
@@ -111,8 +108,6 @@ namespace RMSDesktopUI.ViewModels
         {
 
         }
-
-
 
         public bool CanCheckOut
         {

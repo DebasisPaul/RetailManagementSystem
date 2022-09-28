@@ -34,3 +34,5 @@ F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSD
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\RMSDesktopUI.Library.dll
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\RMSDesktopUI.Library.pdb
 F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\bin\Debug\RMSDesktopUI.Library.dll.config
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\SalesView.g.cs
+F:\dotNET\MAIN-PROJECTS\04. Retail Management System\RetailManagementSystem\RMSDesktopUI\obj\Debug\Views\SalesView.baml
